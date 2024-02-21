@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-
 """ Minimum Operations """
-
-
 def minOperations(n):
      """
      Your text editor can execute only two operations in this file: Copy All and Paste
